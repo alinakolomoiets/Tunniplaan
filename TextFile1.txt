@@ -1,0 +1,15 @@
+mu.png:Pant Gert A218
+image-7.png:Marina Oleinik E07
+bunda.png:Marina Oleinik E07
+pip.png:Poskotinova Olga B138
+pip.png:Zestjakova Ellina B148
+bun.png:Shkarbanova Lury A243
+Kehaline kasvatus:Maksomiv Maksim Voimla A
+Eesti keel Grupp 1:Peetrimagi Irina B226
+Eesti keel Grupp 2:Ojamae Olesja B234
+Ajalugu, inimgeograafia:Speek Mari B238
+Andmebaasisusteemide alused:Merkulova Irina E10
+Kunstiained:Norkevits Aleksandra B232
+Keel ja kirjandus:Mihhailova Ljudmila B221
+Matemaatika:Voronova Nadezda B133
+Suhtlemine ja klienditeenindus:Schumann Sirje B003
