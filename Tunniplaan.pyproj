@@ -24,11 +24,19 @@
     <Compile Include="Tunniplaan.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bun.png" />
+    <Content Include="big.png" />
+    <Content Include="bu.png" />
+    <Content Include="bubu.png" />
     <Content Include="bunda.png" />
+    <Content Include="eel.png" />
     <Content Include="image-7.png" />
+    <Content Include="kkk.png" />
+    <Content Include="kuki.png" />
+    <Content Include="mimi.png" />
+    <Content Include="mmm.png" />
     <Content Include="mu.png" />
     <Content Include="pip.png" />
+    <Content Include="puk.png" />
     <Content Include="TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
